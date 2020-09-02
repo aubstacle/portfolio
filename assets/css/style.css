@@ -1,7 +1,26 @@
 .navbar-brand {
-    background-color: teal;
+  background-color: teal;
 }
 
 .profPic {
-    max-width: 100%;
+  max-width: 100%;
+}
+
+.row {
+    background-color: white;
+    margin-top: 10px;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    border-top: 8px solid #40c8d7;
+    background-color: darkgrey;
+    padding: 4px 0;
+  }
+
+h6 {
+    
 }
