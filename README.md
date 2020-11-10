@@ -1,6 +1,6 @@
 # MY PORTFOLIO WEBPAGE - HOMEWORK 03
 
-I hope you enjoy my responsive portfolio webpage!! I had quite a few struggles with this and by no means was my final result perfect, but I learned so much more about HTML/CSS doing this project and it was legitimately fun to work on!! Bootstrap is my new best friend.
+I hope you enjoy my responsive portfolio webpage! 
 
 A few of the things I really couldn't figure out: 
 
@@ -8,7 +8,7 @@ A few of the things I really couldn't figure out:
 
 2) I couldn't get my name to be white font in the top left corner
 
-3) I couldn't for the life of me get to call on the body in my CSS and place the repeating background image in there, so I left it in the HTML where it worked.
+3) I couldn't for the life of me get to call on the body in my CSS and place the repeating background image in there, so I left it in the HTML where it (kindof) worked. 
 
 I ran my code thru a code validator and only got a few errors pertaining to what I mentioned. 
 
